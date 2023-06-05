@@ -1,5 +1,16 @@
 # crud_backend_JSON
 
+# Explanation of Application 
+
+Backend of the application consists of Controllers, Service, Routes and Json files.
+
+The request and response files are provided and modified in the controller file based on the input entered into the app.
+Data from JSON is synced in the Services file; read the synced file and parse it.
+The battery count has been updated in the router file.
+Routes and JSON are utilized in the index file.
+
+The input request and response are captured in a JSON file and stored in a datapath in the backend of this application. The count, the request, and the expected output are updated whenever there is a change in the input.
+
 ## Available Scripts
 
 run 'npm install' the install the dependencies.
