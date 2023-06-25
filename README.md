@@ -19,7 +19,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Open [http://localhost:5000](http://localhost:5000) to start the application.
+Open [http://localhost:3000](http://localhost:3000) to start the application.
 
 
 # App routes available
